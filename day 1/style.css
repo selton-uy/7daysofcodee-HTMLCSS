@@ -2,8 +2,14 @@ body{
     background: #292e3b;
     font-family: 'Roboto', sans-serif;
 }
+header{
+    position: absolute;
+    width: 1140px;
+    height: 52px;
+    background-color: #1b2226;
+}
 
-/*Confirando imagens*/
+/*Configurando imagens*/
 .capa{
     width: 70%;
     height: 300px;
